@@ -14,7 +14,7 @@ Ciências Econômicas
 ---
 
 # Filosofia
-![bg right:40%](Pensador.jpg)
+![bg right:40%](images\Pensador.jpg)
 **Filosofia:** *amor à sabedoria*; 
 * *Sophia*: sabedoria, conhecimento, ciência.
 * *Philo*: amor, amizade, simpatia.
