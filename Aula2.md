@@ -213,7 +213,7 @@ Há uma diferença fundamental entre **hipóteses ad hoc** e **hipóteses auxili
 # 2. Epistemologias e o Método Científico
 ### Paul Feyerabend (1924-1994)
 
-![bg right:40%](images/feyerabend.jpg)
+![bg right:40%](images/feyerabend.jpeg)
 
 ---
 # 2. Epistemologias e o Método Científico
