@@ -94,6 +94,11 @@ Para Popper, ao contrário do que se espera, as expectativas, hipóteses ou teor
 
 **Teorias Científicas**: As teorias científicas são hipóteses a partir das quais se podem deduzir enunciados comprováveis mediante a observação. Se as observações experimentais adequadas revelam esses enunciados como falsos, a hipótese é refutada. Se uma hipótese supera o esforço de demonstrar sua falseabilidade, pode ser aceita, ao menos em caráter provisório. Nenhuma teoria científica, entretanto, pode ser estabelecida de forma definitiva.
 
+---
+# 2. Epistemologias e o Método Científico
+### Thomas Samuel Kuhn (1922-1996)
+
+![bg right:40%](images/kuhn.jpg)
 
 ---
 # 2. Epistemologias e o Método Científico
@@ -129,6 +134,12 @@ Existem também os **problemas extraordinários**, anomalias ou pesquisas extrao
 Outra condição necessária para que uma comunidade científica abandone uma teoria que adquiriu o status de paradigma é a existência de **teorias alternativas** para substituí-la. A emergência de novas teorias rompe com a tradição de práticas científicas e introduz uma nova tradição, regida por regras diferentes e inserida em um universo de discurso também diferente. Assim, segundo Kuhn, o velho e o novo paradigma são **incomensuráveis**.
 
 **Possível Limitação**: Talvez seja equivocado afirmar que a ciência avança somente através de revoluções esporádicas, entendidas como mudanças radicais, capazes de provocar o abandono de um conjunto de crenças e métodos em favor de outro.
+
+---
+# 2. Epistemologias e o Método Científico
+### Imre Lakatos (1922-1974)
+
+![bg right:40%](images/lakatos.jpg)
 
 
 ---
@@ -200,7 +211,13 @@ Há uma diferença fundamental entre **hipóteses ad hoc** e **hipóteses auxili
 
 ---
 # 2. Epistemologias e o Método Científico
-### Paul Feyerabend
+### Paul Feyerabend (1924-1994)
+
+![bg right:40%](images/feyerabend.jpg)
+
+---
+# 2. Epistemologias e o Método Científico
+### Paul Feyerabend (1924-1994)
 
 **Biografia**: Serviu no exército alemão durante a Segunda Guerra Mundial. Estudou na Academia de Weimar e retornou a Viena para estudar História e Sociologia. Insatisfeito, logo passou a estudar Física. Feyerabend então escolheu Popper como seu orientador e foi estudar na London School of Economics em 1952. Em 1958, mudou-se para Berkeley, Califórnia, e tornou-se cidadão norte-americano. Ministrou aulas como professor convidado em Londres, Berlim e Yale. Em 1972 e 1974, ensinou na Universidade de Auckland, Nova Zelândia, sempre retornando à Califórnia. Nos anos 1980, Feyerabend dividiu suas funções entre a ETH, em Zurique, e Berkeley, mas deixou Berkeley em 1989, mudando-se inicialmente para a Itália e finalmente para Zurique. Após sua aposentadoria em 1991, Feyerabend continuou a publicar artigos e passou a trabalhar em sua autobiografia. Ele faleceu em 1994.
 
@@ -229,8 +246,15 @@ Dado o contexto da ciência, a razão não pode ser universal e a ausência de r
 
 ---
 # 2. Epistemologias e o Método Científico
+### Mario Bunge (1919-2020)
 
-### Mario Bunge
+![bg right:40%](images/bunge.jpg)
+
+
+---
+# 2. Epistemologias e o Método Científico
+
+### Mario Bunge (1919-2020)
 
 **Biografia**: Nasceu na cidade de Buenos Aires. Formou-se pela Universidade Nacional de La Plata, doutorando-se em ciências físico-matemáticas em 1952. Físico teórico e professor de Filosofia da Ciência na Universidade de McGill.
 
