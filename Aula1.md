@@ -14,7 +14,7 @@ Ciências Econômicas
 ---
 
 # Filosofia
-![bg right:40%](images\Pensador.jpg)
+![bg right:40%](images/Pensador.jpg)
 **Filosofia:** *amor à sabedoria*; 
 * *Sophia*: sabedoria, conhecimento, ciência.
 * *Philo*: amor, amizade, simpatia.
@@ -111,7 +111,7 @@ Os **sofistas** eram professores que ensinavam retórica, oratória e argumenta�
 
 # Platão (428-347 a.C.)
 
-![bg right:40%](platao.jpg)
+![bg right:40%](images/platao.jpg)
 
 O **Racionalismo** de Platão: Inatismo
 
@@ -126,13 +126,13 @@ O indivíduo deve aprender a dominar pulsões corporais e vencer a crença nos d
 
 ---
 
-![bg 90%](caverna.jpg)
+![bg 90%](images/caverna.jpg)
 
 
 ---
 # Aristóteles (384-322 a.C.)
 
-![bg right:40%](aristoteles.jpg)
+![bg right:40%](images/aristoteles.jpg)
 
 A **Lógica** de Aristóteles: *Organon* (instrumento de investigação)
 
@@ -207,7 +207,7 @@ Um exemplo clássico de silogismo é:
 --- 
 # Galileu Galilei (1564-1642)
 
-![bg right:40%](galileu.jpg)
+![bg right:40%](images/galileu.jpg)
 
 *"Galileu combinou observação cuidadosa, experimentação controlada e o uso da matemática para descrever as leis naturais, estabelecendo a base do método científico moderno."*
 
@@ -235,7 +235,7 @@ Galileu foi um dos primeiros **a observar as fases de Vênus e as luas de Júpit
 ---
 # René Descartes (1596-1650) 
 
-![bg right:40%](descartes.jpg)
+![bg right:40%](images/descartes.jpg)
 
 Descartes representa o apogeu do racionalismo (Obra: Discurso sobre o Método). 
 
@@ -277,7 +277,7 @@ Principais Autores: Francis Bacon (1661-1626) [Filosofia das Obras, método indu
 ---
 # John Locke (1632-1704)
 
-![bg right:40%](locke.jpg)
+![bg right:40%](images/Locke.jpg)
 
 *A mente humana é uma "tábula rasa" ao nascer, e que todo conhecimento vem da experiência sensorial.*
 
@@ -294,7 +294,7 @@ Principais Autores: Francis Bacon (1661-1626) [Filosofia das Obras, método indu
 ---
 # David Hume (1711-1776)
 
-![bg right:40%](hume.jpg)
+![bg right:40%](images/Hume.jpg)
 
 *Hume é um dos principais representantes do empirismo e do ceticismo.*
 
@@ -312,7 +312,7 @@ Principais Autores: Francis Bacon (1661-1626) [Filosofia das Obras, método indu
 ---
 # Immanuel Kant (1724-1804)
 
-![bg right:40%](kant.jpg)
+![bg right:40%](images/kant.jpg)
 
 *Kant é um dos principais filósofos da modernidade e um dos mais influentes da história da filosofia.*
 
