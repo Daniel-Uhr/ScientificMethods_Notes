@@ -46,7 +46,7 @@ e outras tantas perguntas nessa linha. De modo geral, as abordagens quanto a pro
 # 2. Epistemologias e o Método Científico
 ### Karl Popper (1902-1994)
 
-![bg right:40%](popper.jpg)
+![bg right:40%](images/popper.jpg)
 
 ---
 
