@@ -76,7 +76,7 @@ Procedimento mais Razoável: Método Crítico
 
 **Progresso Científico**: O progresso ocorre pela reiterada substituição de teorias científicas por outras cada vez mais satisfatórias.
 
-**Crítica ao Indutivismo**: Popper rejeita o método indutivista como critério de demarcação e propõe a **lógica falsacionista**, ou seja, a testabilidade e refutabilidade como critérios para distinguir entre teorias científicas e não científicas.
+**Crítica ao Indutivismo**: Popper rejeita o método indutivista como critério de demarcação e propõe a **lógica falsificacionista**, ou seja, a testabilidade e refutabilidade como critérios para distinguir entre teorias científicas e não científicas.
 
 Para Popper, ao contrário do que se espera, as expectativas, hipóteses ou teorias **precedem** os problemas. Aliás, os problemas somente surgem quando as teorias enfrentam dificuldades ou contradições. Assim, os problemas despertam o desafio de aprender e de avançar no conhecimento.
 
@@ -309,6 +309,56 @@ A visão epistemológica de Bunge é profundamente **racionalista**. Ele entende
 
 Todavia, Bunge considera que a característica fundamental das ciências naturais (ou fáticas) é a **verificabilidade**, e, nesse sentido, assume uma postura **realista**. No entanto, a verificabilidade das hipóteses científicas não garante que elas sejam definitivas.
 
+---
+
+# 3. Resumo
+### Pontos centrais das Epistemologias
+
+---
+
+### Karl Popper (1902-1994)
+
+* Epistemologia: Racionalismo crítico.
+* Método Científico: Falsificacionismo. Popper argumenta que a ciência progride ao refutar teorias, não ao confirmá-las. Uma hipótese é científica se puder ser falsificada.
+  * A ciência nunca prova nada definitivamente; ela apenas elimina erros.
+  * Exemplo: A hipótese "Todos os cisnes são brancos" pode ser falsificada ao encontrar um cisne negro.
+* Visão: A ciência é um processo contínuo de conjecturas e refutações. Não existe "certeza", mas sim aproximações melhores da verdade.
+
+---
+### Thomas Kuhn (1922-1996)
+* Epistemologia: Estruturalismo histórico da ciência.
+* Método Científico: Paradigmas científicos e revoluções científicas.
+  * A ciência progride por meio de períodos de "ciência normal", onde há consenso dentro de um paradigma (conjunto de crenças e métodos compartilhados).
+  * Crises surgem quando anomalias acumulam-se e o paradigma não pode mais explicá-las, resultando em uma revolução científica.
+* Exemplo: A transição do modelo geocêntrico para o heliocêntrico.
+* Visão: O progresso científico não é linear ou cumulativo, mas sim uma sequência de mudanças de paradigma, cada um com suas próprias regras e métodos.
+
+---
+### Imre Lakatos (1922-1974)
+* Epistemologia: Programas de pesquisa científica.
+* Método Científico: Programas de pesquisa progressivos e degenerativos.
+  * Propôs um meio-termo entre Popper e Kuhn. A ciência avança por meio de programas de pesquisa, cada um com um "núcleo teórico" protegido por hipóteses auxiliares.
+  * Um programa é progressivo se prevê novos fatos e se ajusta para resolver problemas. É degenerativo se se limita a ajustar hipóteses sem produzir novos insights.
+* Exemplo: A física newtoniana foi um programa progressivo por séculos, mas tornou-se degenerativo com o advento da relatividade.
+* Visão: Teorias não são refutadas isoladamente; é o progresso ou a estagnação de todo o programa de pesquisa que deve ser avaliado.
+
+---
+### Paul Feyerabend (1924-1994)
+* Epistemologia: Anarquismo epistemológico.
+* Método Científico: "Anything goes" (Tudo vale).
+  * Criticou a ideia de um método científico universal, argumentando que a ciência avança por meio de práticas diversas e muitas vezes caóticas.
+  * Exemplos históricos mostram que métodos não científicos, como a intuição, foram cruciais para descobertas.
+  * Exemplo: Galileu usou retórica e técnicas não convencionais para convencer sobre o heliocentrismo.
+* Visão: Não há um critério rígido para definir ciência; o progresso depende da criatividade e da liberdade metodológica.
+
+---
+###  Mario Bunge (1919-2020)
+* Epistemologia: Realismo científico.
+* Método Científico: Sistema integrado de lógica, ontologia e metodologia.
+  * Defendeu um método científico rigoroso baseado no realismo ontológico e na lógica formal.
+  * A ciência busca explicar a realidade objetiva por meio de teorias fundamentadas em observação, experimentação e modelagem matemática.
+  * Exemplo: O modelo atômico baseia-se em evidências experimentais e na lógica dedutiva.
+* Visão: A ciência é um sistema organizado e progressivo, mas depende de um compromisso com a verdade objetiva e com a metodologia rigorosa.
 
 ---
 
