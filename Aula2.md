@@ -256,58 +256,77 @@ Dado o contexto da ciência, a razão não pode ser universal e a ausência de r
 
 ### Mario Bunge (1919-2020)
 
-**Biografia**: Nasceu na cidade de Buenos Aires. Formou-se pela Universidade Nacional de La Plata, doutorando-se em ciências físico-matemáticas em 1952. Físico teórico e professor de Filosofia da Ciência na Universidade de McGill.
+**Biografia**: Mario Bunge nasceu em Buenos Aires, Argentina. Graduou-se na Universidade Nacional de La Plata, onde concluiu seu doutorado em ciências físico-matemáticas em 1952. Foi físico teórico e professor de Filosofia da Ciência na Universidade McGill, no Canadá.
+
+Bunge defendia uma visão científica rigorosa e inovadora, tendo a Física como paradigma da ciência e uma das principais fontes para a elaboração filosófica. Segundo ele:
+
+*"A Física tem constituído o paradigma da ciência e o principal provedor de materiais para a elaboração filosófica."*
 
 ---
 # 2. Epistemologias e o Método Científico
 
-"A Física tem constituído o paradigma da ciência e o principal provedor de materiais para a elaboração filosófica."
+Bunge criticou o operacionalismo, uma abordagem extrema do empirismo, caracterizada por alguns dogmas:
 
-**Operacionalismo**: Caracteriza-se por alguns dogmas que são uma versão extrema do empirismo:
-   - A observação é a fonte de conhecimento;
-   - Hipóteses e teorias são sínteses indutivas;
-   - As teorias não são criadas, mas descobertas;
-   - O objetivo das teorias é sistematizar a experiência humana;
-   - As teorias que contêm conceitos que não vêm da observação são rejeitadas.
+* A observação é a única fonte de conhecimento.
+* Hipóteses e teorias são meras sínteses indutivas.
+* As teorias não são criadas, mas descobertas.
+* O objetivo das teorias é sistematizar a experiência humana.
+* Teorias que incluem conceitos não derivados da observação são rejeitadas.
 
-
----
-# 2. Epistemologias e o Método Científico
-
-Ele propõe que a filosofia empirista-indutivista, ainda presente na Física e na ciência em geral, precisa ser substituída por uma visão filosófica mais contemporânea, que ajude o cientista a ser mais crítico e criativo.
-
-**Construção da Ciência**: O homem constrói a ciência, um corpo crescente de ideias que se estruturam em um conhecimento racional, exato, verificável e, consequentemente, falível (uma inteligência imperfeita, mas aperfeiçoável).
-
----
-# 2. Epistemologias e o Método Científico
-
-Ciência Formal e Ciência Fática (Material)
-
-**Ciência Formal**: Incluem-se nesta categoria a Lógica e a Matemática, pois, embora produtoras de conhecimento racional, sistêmico e verificável, seus objetos de estudo não fornecem informações sobre a realidade. Tratam de entes abstratos, que existem apenas na mente humana.
-
-**Ciência Fática**: Baseia-se na formulação de hipóteses a respeito de fatos e/ou objetos materiais. Os enunciados fáticos devem ser verificáveis direta ou indiretamente; o conhecimento não é apenas convencional, mas passa pela reconstrução conceitual (ou modelagem) dos fatos através da experiência.
+Para Bunge, essa filosofia ainda presente na ciência, especialmente na Física, deveria ser substituída por uma visão mais contemporânea, que tornasse o cientista mais crítico e criativo.
 
 
 ---
 # 2. Epistemologias e o Método Científico
 
-Requisitos para o Conhecimento Científico
+**Construção da Ciência**
 
-**Característica: Verificabilidade** : Para que algo mereça ser chamado de científico, devemos ser capazes de descrever objetivamente os procedimentos utilizados para obter os dados que nos levaram a um enunciado, de maneira que possam ser reproduzidos por qualquer pessoa que se disponha a aplicá-los.
+Bunge via a ciência como uma construção humana, um corpo crescente de ideias estruturadas em:
 
-**Método Científico** : Indica o caminho, fornece uma orientação e possui algumas regras que não são rígidas, mas adaptáveis. A indução, a analogia e a dedução de suposições extracientíficas são exemplos das múltiplas maneiras de inventar hipóteses, sendo que o único invariante é o requisito da **verificabilidade**.
+* Conhecimento racional: Baseado na lógica e na análise.
+* Conhecimento verificável: Submetido a testes empíricos e experimentais.
+* Falibilidade: O conhecimento científico é imperfeito, mas pode ser continuamente aprimorado.
 
-**Modelos Científicos**: (i) O **modelo conceitual** pode nos dar uma imagem simbólica do real; (ii) Atribuímos a ele certas propriedades — etapa do **modelo teórico**.
+---
+# 2. Epistemologias e o Método Científico
+
+**Ciência Formal e Ciência Fática**
+
+* Ciência Formal: Inclui disciplinas como Lógica e Matemática, que produzem conhecimento racional, sistemático e verificável, mas não tratam diretamente da realidade concreta. Seu foco é em entes abstratos que existem apenas no pensamento humano.
+
+* Ciência Fática: Baseia-se na formulação de hipóteses sobre fatos ou objetos materiais. Características principais:
+  * Os enunciados fáticos devem ser verificáveis direta ou indiretamente.
+  * O conhecimento requer modelagem conceitual dos fatos com base na experiência.
 
 
 ---
 # 2. Epistemologias e o Método Científico
 
-Visão Epistemológica de Bunge
+**Requisitos para o Conhecimento Científico**
+* **Verificabilidade**
+  * O conhecimento científico exige que os procedimentos usados para obter dados sejam descritos objetivamente e possam ser reproduzidos por outros.
 
-A visão epistemológica de Bunge é profundamente **racionalista**. Ele entende ser possível axiomatizar qualquer campo do conhecimento, mas com um novo tipo de axiomatização em que, particularmente na Física, toda fórmula deve ser acompanhada de uma **assunção semântica** capaz de esclarecer o significado físico dos conceitos fundamentais envolvidos.
+* **Método Científico**
+  * O método científico é flexível e adaptável, incluindo ferramentas como indução, analogia e dedução. A única exigência invariável é a verificabilidade.
 
-Todavia, Bunge considera que a característica fundamental das ciências naturais (ou fáticas) é a **verificabilidade**, e, nesse sentido, assume uma postura **realista**. No entanto, a verificabilidade das hipóteses científicas não garante que elas sejam definitivas.
+* **Modelos Científicos**
+  * Modelos conceituais fornecem representações simbólicas da realidade.
+  * Modelos teóricos atribuem propriedades aos conceitos fundamentais.
+
+
+---
+# 2. Epistemologias e o Método Científico
+
+**Visão Epistemológica**
+
+A epistemologia de Mario Bunge é marcadamente racionalista e realista. Ele acreditava que:
+
+* Todo campo do conhecimento pode ser axiomatizado, mas de forma moderna, especialmente na Física.
+* Cada fórmula deve ser acompanhada de uma assunção semântica para esclarecer o significado físico dos conceitos fundamentais.
+
+Embora Bunge valorizasse a verificabilidade como característica essencial das ciências naturais (ou fáticas), ele reconhecia que a verificabilidade não garante que hipóteses científicas sejam definitivas. Assim, para ele, a ciência é um processo contínuo e falível, mas orientado para a verdade.
+
+
 
 ---
 
